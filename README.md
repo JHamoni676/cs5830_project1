@@ -6,4 +6,4 @@ https://docs.google.com/presentation/d/1Va0F48UqSPIWz-XYpwuAu4z2EfIyNzA3cETJkt4I
 
 
 ### NOTE!!!
-We found a table with data concering inflation and it as the file 'inflation.csv' in the core/ folder. This is needed to run the final analysis in our notebook.
+We found a table with data concering inflation and it as the file 'inflation_us.csv' in the core/ folder. This is needed to run the final analysis in our notebook.
